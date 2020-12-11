@@ -1,0 +1,1 @@
+insert into user (firstname,lastname,email) values ("salman","al farisi","luckyfaris44@gmail.com"),("Faries","Devlay","fariesdevlay@gmail.com"),("muhammad","farid","farislove39@yahoo.co.id")
